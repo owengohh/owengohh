@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Owen</h1>
 <h3 align="left">A aspiring software developer </h3>
+<h4 align="left">Currently, studying Software Engineering at <strong>Singapore Management University</strong></h4>
 
 - 🔭 I’m currently working on [Reventé](https://smu-wad2.web.app/)
 
@@ -9,9 +10,24 @@
 
 - ⚡ Fun fact **I'm immune to coffee**
 
+Projects:
+<!-- Ellipsis Tech Series -->
+<p align="left">
+  <a href="https://vicky-nine.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react"   />
+  </a>
+</p>
+
+<!-- Reventé -->
+<p align="left">
+  <a href="https://smu-wad2.web.app/"  target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/owengohh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owengohh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/owengohh" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owengohh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
