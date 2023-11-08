@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Owen</h1>
 <h3 align="left">A aspiring software developer </h3>
-<h4 align="left">Currently, studying Software Engineering at <strong>Singapore Management University</strong></h4>
+<h4 align="left">Currently, a year 2 studying Software Engineering at <strong>Singapore Management University</strong></h4>
 
 - 🔭 I’m currently working on [Reventé](https://smu-wad2.web.app/)
 
