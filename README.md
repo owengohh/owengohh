@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A aspiring software developer from Singapore</h3>
+<h1 align="left">Hi 👋, I'm Owen</h1>
+<h3 align="left">A aspiring software developer </h3>
 
 - 🔭 I’m currently working on [Reventé](https://smu-wad2.web.app/)
 
