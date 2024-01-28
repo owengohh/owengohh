@@ -2,7 +2,7 @@
 <h3 align="left">A aspiring software developer </h3>
 <h4 align="left">Currently, a year 2 studying Software Engineering at <strong>Singapore Management University</strong></h4>
 
-- 🔭 I’m currently working on [Reventé](https://smu-wad2.web.app/)
+- 🔭 I’m currently working on [My Portfolio Website](https://cosmic-pixie-176d05.netlify.app)
 
 - 🌱 I’m currently learning **React, Express**
 
