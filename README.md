@@ -28,7 +28,7 @@ Projects:
 <!-- FarmFinds -->
 <p align="left">
   <a href="https://github.com/SSSamueLDS/googleignite_team7"  target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=flutter" />
+      <img src="https://img.shields.io/badge/-FarmFinds-black?style=flat-square&logo=flutter" />
   </a>
 </p>
 
