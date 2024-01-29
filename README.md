@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Owen</h1>
 <h3 align="left">A aspiring software developer </h3>
-<h4 align="left">Currently, a year 2 studying Software Engineering at <strong>Singapore Management University</strong></h4>
+<h4 align="left">Currently, a year 2 studying Software Engineering with a major in Cybersecurity at <strong>Singapore Management University</strong></h4>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://cosmic-pixie-176d05.netlify.app)
 
