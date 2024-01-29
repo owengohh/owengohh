@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Express**
 
-- 📫 How to reach me **owengoh2001@gmail.com**
+- 📫 Reach me at **owengoh2001@gmail.com**
 
 - ⚡ Fun fact **I'm immune to coffee**
 
