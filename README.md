@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://cosmic-pixie-176d05.netlify.app)
 
-- 🌱 I’m currently learning **React, Express**
+- 🌱 I’m currently learning **React, Next, Golang**
 
 - 📫 Reach me at **owengoh2001@gmail.com**
 
