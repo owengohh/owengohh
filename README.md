@@ -1,10 +1,8 @@
 <h1 align="left">Hi 👋, I'm Owen</h1>
 <h3 align="left">A aspiring software developer </h3>
-<h4 align="left">Currently, a junior studying Software Engineering at <strong>Singapore Management University</strong></h4>
+<h4 align="left">Currently, a penultimate student studying Software Engineering at <strong>Singapore Management University</strong></h4>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://cosmic-pixie-176d05.netlify.app)
-
-- 🌱 I’m currently learning **React, Next, Golang**
+- 🌱 I’m currently learning **React, Next and Spring**
 
 - 📫 Reach me at **owengoh2001@gmail.com**
 
@@ -25,12 +23,6 @@ Projects:
   </a>
 </p>
 
-<!-- FarmFinds -->
-<p align="left">
-  <a href="https://github.com/SSSamueLDS/googleignite_team7"  target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-FarmFinds-black?style=flat-square&logo=flutter" />
-  </a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
